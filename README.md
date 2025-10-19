@@ -1,5 +1,10 @@
 # mlproject
 
+## Caveats
+```
+brew install libomp
+```
+
 ## Testing
 
 ## Run all tests
