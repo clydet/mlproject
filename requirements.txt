@@ -5,6 +5,7 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
 pytest>=7.0.0
 pytest-cov>=4.0.0
 # -e .
